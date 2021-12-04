@@ -1,0 +1,20 @@
+body{
+    background: url(img/naruto-l.jpg);
+    background-repeat: no-repeat;
+    background-size: 300px;
+}
+
+     .header{
+        margin: 100px;
+ }
+         
+div p img{
+    width: 100px;
+}
+
+.foto-3{
+   
+   width: 300px ;
+
+
+}
